@@ -328,7 +328,7 @@ span {
 .services-box {
     background-color: var(--main-color);
     color: #fff;
-    height: 450px;
+    height: 375px;
     border-radius: 3rem;
     cursor: pointer;
     transition: 0.3s ease-in-out;
@@ -351,14 +351,14 @@ span {
 }
 
 .services-info h4 {
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: 500;
     margin-bottom: 3rem;
 
 }
 
 .services-info p {
-    font-size: 1.7rem;
+    font-size: 2rem;
     font-weight: 400px;
     max-height: 100px;
     margin: auto;
